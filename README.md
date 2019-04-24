@@ -136,3 +136,8 @@ San Jose, CA, 1993.
 - O.L. Mangasarian, W.N. Street and W.H. Wolberg. Breast cancer diagnosis and prognosis via linear programming. Operations Research, 43(4), pages 570-577, July-August 1995.
 - W.H. Wolberg, W.N. Street, and O.L. Mangasarian. Machine learning techniques to diagnose breast cancer from fine-needle aspirates. Cancer Letters 77 (1994)  163-171.'
 
+
+IMAGE Credit
+Illustration by Joshua Seong. © Verywell, 2017
+https://www.verywellhealth.com/what-does-malignant-and-benign-mean-514240
+
